@@ -1,0 +1,81 @@
+{
+    "title": {
+        "eng": "Monitoring & Countering Narratives Online",
+        "fra": "Contrer les Discours en Ligne",
+        "por": "Contando Narrativas Online",
+        "ara": "مكافحة الروايات على الإنترنت"
+    },
+    "subtitle": {
+        "eng": "Towards a complete blueprint",
+        "fra": "Vers un mode d'emploi",
+        "por": "Para um manual",
+        "ara": "نحو دليل"
+    },
+    "footer": {
+        "eng": "For any inquiries contact us at <a href='mailto:info@charitableanalytics.org' target='_blank'>info@charitableanalytics.org</a>",
+        "fra": "Pour nous rejoindre, contactez nous au <a href='mailto:info@charitableanalytics.org' target='_blank'>info@charitableanalytics.org</a>",
+        "por": "Para mais informações contacte-nos em <a href='mailto:info@charitableanalytics.org' target='_blank'>info@charitableanalytics.org</a>",
+        "ara": "<a href='mailto:info@charitableanalytics.org' target='_blank'>info@charitableanalytics.org</a> للاستفسارات اتصل بنا على"
+    },
+    "title_executive_summary": {
+        "eng": "Executive Summary",
+        "fra": "Résumé",
+        "por": "Sumário executivo",
+        "ara": "ملخص تنفيذي"
+    },
+    "title_introduction": {
+        "eng": "Introduction",
+        "fra": "Introduction",
+        "por": "Introduçao",
+        "ara": "مقدمة"
+    },
+    "title_methodology": {
+        "eng": "Methodology",
+        "fra": "Méthodologie",
+        "por": "Metodologia",
+        "ara": "المنهجية"
+    },
+    "title_key_findings": {
+        "eng": "Key Findings",
+        "fra": "Principales conclusions",
+        "por": "Principais conclusões",
+        "ara": "النتائج الرئيسية"
+    },
+    "title_lessons_learned": {
+        "eng": "Lessons Learned",
+        "fra": "Leçons apprises",
+        "por": "Lições aprendidas",
+        "ara": "الدروس المستفادة"
+    },
+    "title_conclusion": {
+        "eng": "Conclusion",
+        "fra": "Conclusion",
+        "por": "Conclusao",
+        "ara": "استنتاج"
+    },
+    "title_results": {
+        "eng": "Results",
+        "fra": "Résultats",
+        "por": "Resultados",
+        "ara": "نتائج"
+    },
+    "title_limitations": {
+        "eng": "Limitations",
+        "fra": "Limites",
+        "por": "Limitações",
+        "ara": "محددات"
+    },
+    "template": {
+        "eng": "",
+        "fra": "",
+        "por": "",
+        "ara": ""
+    },
+    "error": {
+        "eng": "Error",
+        "fra": "Erreur",
+        "por": "Error",
+        "ara": "Error"
+    }
+}
+

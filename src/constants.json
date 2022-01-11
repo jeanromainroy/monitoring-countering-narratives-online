@@ -1,0 +1,18 @@
+{
+    "SUPPORTED_LANGUAGES": [
+        {"key": "eng", "name": "English", "mobile": "en"}
+    ],
+    "DOMAIN": "https://jeanromainroy.com",
+    "SUBDIRECTORY": "/projects/seshat/",
+    "ONION_ADDRESS": "http://en5kq3sxdcnf5cvirydxs5hwpbivosfzu3kxtxvttrsbibaznpk4ljqd.onion",
+    "TITLE": "Monitoring & Countering Narratives Online",
+    "DESCRIPTION": "Towards a complete blueprint",
+    "THUMBNAIL_FILEPATH": "thumbnail.jpg",
+    "AUTHOR": "Jean-Romain Roy",
+    "OF_INTEREST": [
+        [ 
+            {"key": "contains_disinfo", "value": "yes"}
+        ]
+    ],
+    "MIN_NBR_OF_PUBLICATION_OF_INTEREST": 3
+}
