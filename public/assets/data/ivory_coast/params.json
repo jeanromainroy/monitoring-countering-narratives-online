@@ -1,0 +1,13 @@
+{
+    "examples": {
+        "lexicon": [
+            "<p><b class='red'>ASSASSINAT</b> DE THOMAS SANKARA : TOUS LES ÉLÉMENTS RENVOIENT À BLAISE COMPAORÉ</p>",
+            "<p>DESTABILISATION DU MALI: DES <b class='red'>ÉCOUTES TÉLÉPHONIQUES</b> QUI ACCABLENT ALASSANE OUATTARA.</p><p style='margin-top: 8px;'>-Chris Yapi Officiel</p>",
+            "<p>Regardez même il ne sont même pas nombreux deux petites <b class='red'>microbes</b> djoula peut faire fuir ceux là</p>"
+        ],
+        "queries": [
+            "petits microbes",
+            "assassinat"
+        ]
+    }
+}
