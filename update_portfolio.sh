@@ -5,7 +5,7 @@
 npm run build
 
 # copy
-cp -r ./public/* ~/Projects/portfolio/public/projects/seshat/
+# cp -r ./public/* ~/Projects/portfolio/public/projects/seshat/
 
 # scp data
 # scp -r ./public/assets/data/brazil/* portfolio:/home/ubuntu/portfolio/public/projects/seshat/assets/data/brazil/

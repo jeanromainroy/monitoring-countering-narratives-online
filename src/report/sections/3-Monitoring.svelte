@@ -114,7 +114,6 @@
     <br>
     <br>
 
-
     <p class="subtitle">
         Annotation
     </p>
@@ -188,6 +187,10 @@
             Assess whether two accounts published a message about the same sub-narrative within an arbitrary number of days.
         </li>
     </ul>
+    <p>
+        You can extract the links embedded in the final social media posts. Useful tools to get insights about websites are 
+        <a target="_blank" href="https://www.similarweb.com/">SimilarWeb</a> and <a target="_blank" href="https://dnslytics.com/">DNSlytics</a>.
+    </p>
     <br>
 
 </section>
